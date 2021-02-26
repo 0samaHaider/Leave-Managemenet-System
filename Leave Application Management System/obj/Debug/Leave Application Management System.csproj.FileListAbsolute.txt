@@ -1,0 +1,13 @@
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\bin\Debug\Leave Application Management System.exe.config
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\bin\Debug\Leave Application Management System.exe
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\bin\Debug\Leave Application Management System.pdb
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave Application Management System.csprojAssemblyReference.cache
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave_Application_Management_System.Form1.resources
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave_Application_Management_System.New_Account.resources
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave_Application_Management_System.Properties.Resources.resources
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave Application Management System.csproj.GenerateResource.cache
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave Application Management System.csproj.CoreCompileInputs.cache
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave Application Management System.exe
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave Application Management System.pdb
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave_Application_Management_System.Admin.resources
+C:\Users\Osama HaiDer\source\repos\Leave Application Management System\Leave Application Management System\obj\Debug\Leave_Application_Management_System.User_Pannel.resources
